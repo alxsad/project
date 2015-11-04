@@ -1,5 +1,4 @@
 [![Software License][ico-license]](LICENSE.md)
-
 Project
 ===========
 
