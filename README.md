@@ -9,7 +9,7 @@ Project is a empty package.
 Via Composer
 
 ``` bash
-$ composer create-project alxsad/project --stability="dev"
+$ composer create-project alxsad/project
 ```
 
 ## License
