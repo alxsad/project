@@ -1,0 +1,9 @@
+.idea
+.DS_Store
+._*
+.AppleDouble
+Thumbs.db
+
+/bin/*
+/vendor/
+!.gitkeep

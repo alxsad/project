@@ -1,0 +1,39 @@
+{
+    "name": "alxsad/project",
+    "description": "Empty project",
+    "type": "project",
+    "license": "MIT",
+    "keywords" : [
+        "project",
+        "template",
+        "empty"
+    ],
+    "require": {
+        "php": ">=5.6",
+        "nikic/iter": "^1.3",
+        "igorw/get-in": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {"Alxsad\\Project\\": "src/"}
+    },
+    "autoload-dev": {
+        "psr-4": {"Alxsad\\Project\\Test\\": "tests/"}
+    },
+    "config": {
+        "bin-dir": "bin/"
+    },
+    "authors": [
+        {
+            "name": "Alex Davidovich",
+            "email": "alxsad@gmail.com"
+        }
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
